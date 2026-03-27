@@ -51,7 +51,7 @@ src/
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/tiptap-track-changes.git
+git clone https://github.com/pawansoni007/tiptap_track_changes.git
 cd tiptap-track-changes
 
 # Install dependencies
